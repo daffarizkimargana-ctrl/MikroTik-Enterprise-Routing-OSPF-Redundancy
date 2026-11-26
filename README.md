@@ -30,7 +30,7 @@ Dengan memanfaatkan MikroTik RouterOS, project ini mengeksplorasi konsep routing
 | Technology | Description |
 |---|---|
 | MikroTik CHR | Virtual Router |
-| RouterOS v7 | Network Operating System |
+| RouterOS | Network Operating System |
 | GNS3 | Network Simulation Platform |
 | OSPF | Dynamic Routing Protocol |
 | Cisco IOSvL2 | Layer 2 Switching |
